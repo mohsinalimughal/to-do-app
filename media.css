@@ -1,7 +1,5 @@
 @media only screen and (max-width: 500px) {
-  body {
-    background-color: lightblue;
-  }
+
   .main {
     width: 80vw;
     background-color: #41aaff;
